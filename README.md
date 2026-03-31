@@ -50,9 +50,6 @@
 - 🗣️ **Languages**: Vietnamese (Native), English (IELTS 6.0).
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wangchinnt&show_icons=true&theme=radical)
-
----
 <p align="center">
   <i>"It does not matter how slowly you go as long as you do not stop"</i>
 </p>
