@@ -50,10 +50,10 @@
 - 🗣️ **Languages**: Vietnamese (Native), English (IELTS 6.0).
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangchinnt)](https://github.com/anuraghazra/github-readme-stats)
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wangchinnt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Chien's GitHub Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangchinnt&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
