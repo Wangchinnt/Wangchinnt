@@ -50,7 +50,7 @@
 - 🗣️ **Languages**: Vietnamese (Native), English (IELTS 6.0).
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangchinnt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangchinnt)](https://github.com/Wangchinnt/github-readme-stats)
 
 ---
 <p align="center">
