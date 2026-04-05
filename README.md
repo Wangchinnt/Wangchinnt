@@ -14,7 +14,7 @@
 - 🎓 **Education**: B.S. in Computer Science (Honors Program) - **VNU-UET**.
 - 🏫 **Current Role**: Junior Lecturer at Faculty of IT, **ICTU**.
 - 🔬 **Research Focus**: AI, Computer Vision, Deep Learning, Edge Computing.
-- 🎯 **Objective**: Seeking a Master's/PhD position to explore AI applications in edge computing and human action recognition.
+- 🎯 **Objective**: Seeking a Master's/PhD position to explore AI applications in edge computing and computer vision.
 
 ---
 
